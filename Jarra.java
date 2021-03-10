@@ -35,6 +35,7 @@ public void metodoComunitario(){
 // Comentario incluido para pruebas
 System.out.println("Aqui escribimos todos");
 System.out.println("Anibal");
+System.out.println("Bombo");
 }
 }
 public Object clone() throws CloneNotSupportedException {

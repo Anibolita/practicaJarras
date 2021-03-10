@@ -9,6 +9,18 @@ throw new RuntimeException("ERROR: no se pueden crear jarras “ +
 this.capacidad=capacidadInicial;
 }
 // Aquí vendrán después los métodos creados en la siguiente fase
+public bool llena(){
+return this.cantidad=this.capacidad;
+}
+public bool vacia(){
+return this.cantidad=0;
+}
+public bool llena(){
+    return this.cantidad=this.capacidad;
+}
+    public bool vacia(){
+        return this.cantidad=0;
+    }
 public void llenaDesde(Jarra j){
 while((this.cantidad<this.capacidad)&&(j.cantidad>0)){
 this.cantidad++;

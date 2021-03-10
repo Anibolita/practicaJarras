@@ -35,6 +35,7 @@ public void metodoComunitario(){
 // Comentario incluido para pruebas
 System.out.println("Aqui escribimos todos");
 System.out.println("Bombo");
+System.out.println("Anibal");
 }
 }
 

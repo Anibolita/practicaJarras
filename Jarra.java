@@ -34,11 +34,9 @@ public void metodoComunitario(){
 //Bombo quiere que cambie
 // Comentario incluido para pruebas
 System.out.println("Aqui escribimos todos");
-System.out.println("Bombo");
 System.out.println("Anibal");
 }
 }
-
 public Object clone() throws CloneNotSupportedException {
 return (Jarra) super.clone();
 }

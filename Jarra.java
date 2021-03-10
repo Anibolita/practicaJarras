@@ -32,6 +32,7 @@ return ("("+this.capacidad+","+this.cantidad+")");
 }
 public void metodoComunitario(){
 //Bombo quiere que cambie
+//Bombo Combo Cerilla
 // Comentario incluido para pruebas
 System.out.println("Aqui escribimos todos");
 }
